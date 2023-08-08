@@ -8,8 +8,7 @@ Meu nome é Camila Inês Silva Mio e eu estou estudando para me tornar uma desen
 
 
 ### Hards Skills 💻 : 
-
-![Javascript] (https://img.shields.io/badge/javascript-23330?style=for-the-badge&logo=javascript&logoColor=F000000)
+![Javascript](https://img.shields.io/badge/javascript-23330?style=for-the-badge&logo=javascript&logoColor=F000000).
 
 
 
