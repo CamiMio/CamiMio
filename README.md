@@ -7,3 +7,10 @@ Meu nome é Camila Inês Silva Mio e eu estou estudando para me tornar uma desen
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedim&logoColor=white)](https://www.linkedin.com/notifications/?filter=all)
 
 
+### Hards Skills 💻 : 
+
+![Javascript] (https://img.shields.io/badge/javascript-23330?style=for-the-badge&logo=javascript&logoColor=F000000)
+
+
+
+
