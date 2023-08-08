@@ -4,6 +4,6 @@ Meu nome é Camila Inês Silva Mio e eu estou estudando para me tornar uma desen
 
 ### Para me encontrar⚠️:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedim&logoColor=white)](https://www.linkedin.com/notifications/?filter=all)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedim&logoColor=white)](https://www.linkedin.com/notifications/?filter=all)
 
 
