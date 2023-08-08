@@ -13,7 +13,7 @@ Estou em trasição de carreira e tenho um blog no instagram onde compartilho me
 
 > 🚀 Feliz aquele que transfere o que sabe e aprende o que ensina
 
-![Top_Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiMio&theme=onedark$custom_title=Top%20%Linguagens)
+![Top_Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiMio&THEME=onedark$custom_title=Top%20%Linguagens)
 
 
 
